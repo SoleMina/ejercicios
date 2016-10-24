@@ -1,2 +1,2 @@
-# ejercicios de PHP
+# Ejercicios de PHP
 # Son ejercicios realizados de sintaxis.
